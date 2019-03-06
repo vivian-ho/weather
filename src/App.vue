@@ -17,7 +17,7 @@
     <div class="block">
       <label>Currently:</label><br />
       <p>
-        <img :src="'/assets/images/' + currently.icon + '.png'" v-bind:alt="currently.icon">
+        <img src="'/assets/images/' + currently.icon + '.png'" v-bind:alt="currently.icon">
         {{currently.summary}}
       </p>
       <br />
