@@ -6,9 +6,9 @@ yarn install
 ```
 
 ## api keys
-In your .env file, add 
-VUE_APP_GEO_CODE=[key]
-VUE_APP_DARKSKY=[key]
+In your .env file, add <br />
+VUE_APP_GEO_CODE=[key] <br />
+VUE_APP_DARKSKY=[key] <br />
 VUE_APP_IP_STACK=[key]
 
 ### Compiles and hot-reloads for development
